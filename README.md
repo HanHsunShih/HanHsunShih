@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **amyhanhsunshih8210@gmail.com**
 
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhsunshih&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanhsunshih&layout=compact)-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amy-hanhsun-shih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amy han-hsun shih" height="30" width="40" /></a>
