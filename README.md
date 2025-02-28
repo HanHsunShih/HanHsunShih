@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">I am a passionate full-stack developer from Taiwan 🧋 who loves solving real-world problems! At the same time, I am also a marine illustrator🪼 and the founder of a travel souvenir brand. Check out my repositories—you might find some interesting projects! 😎</h3>
 
-- 🔭 I’m currently working on [QRcode order application](https://github.com/HanHsunShih/qrcode-order-app-client)
+- 🔭 I’m currently working on [Cover Letter Generator](https://github.com/HanHsunShih/cover-letter-generator)
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HanHsunShih?tab=repositories](https://github.com/HanHsunShih?tab=repositories)
 
-- 📫 How to reach me **amyhanhsunshih8210@gmail.com**
+- 📫 How to reach me **a23514788@gmail.com**
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhsunshih&show_icons=true&theme=radical)
